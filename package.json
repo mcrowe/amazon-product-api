@@ -1,7 +1,7 @@
 {
-  "name": "@mcrowe/package_name",
+  "name": "@mcrowe/amazon-product-api",
   "version": "0.0.2",
-  "description": "package_description",
+  "description": "Amazon Product Api Typescript client",
   "author": "Mitch Crowe <code@mitchcrowe.com> (http://www.mitchcrowe.com)",
   "license": "ISC",
   "repository": "https://github.com/mcrowe/package_name",
