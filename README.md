@@ -28,4 +28,3 @@ This will publish a new version to npm, as well as push a new tag up to github.
 
 - Proper variant parsing
 - Proper image parsing?
-- Move tests over
