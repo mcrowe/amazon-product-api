@@ -69,7 +69,7 @@ function normalizeAmazonError(msg: string): string {
     case 'RequestThrottled':
       return 'aws_throttle'
     case 'AWS.InternalError':
-      return 'aws_internal_error'
+      return 'aws_server_error'
     default:
       throw new Error('Unexpected amazon error: ' + msg)
   }
