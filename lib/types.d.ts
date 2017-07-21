@@ -1,7 +1,7 @@
 export interface IKey {
-    awsId: string;
-    awsSecret: string;
-    assocId: string;
+    accessKeyId: string;
+    secretAccessKey: string;
+    associateTag: string;
 }
 export interface IProduct {
     asin?: string;

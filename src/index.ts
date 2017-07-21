@@ -32,7 +32,13 @@ export async function bulkGetProducts(key: IKey, country: string, asins: string[
 
 
 async function itemLookup(key: IKey, country: string, asins: string[]) {
-  const response = await new apac.OperationHelper(key).execute('ItemLookup', {
+  const options = {
+    awsId: key.accessKeyId,
+    awsSecret: key.secretAccessKey,
+    assocId: key.associateTag
+  }
+
+  const response = await new apac.OperationHelper(options).execute('ItemLookup', {
     ItemId: asins.join(','),
     ItemType: 'ASIN',
     ResponseGroup: RESPONSE_GROUP,
