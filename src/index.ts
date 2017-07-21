@@ -7,6 +7,11 @@ import { Result,
 import * as apac from 'apac'
 
 
+export { IKey,
+         IProduct,
+         IProductMap } from './types'
+
+
 const RESPONSE_GROUP = 'Large,Variations'
 
 
