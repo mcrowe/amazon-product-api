@@ -1,1 +1,1 @@
-{ "ok": false, "error": "aws:RequestThrottled" }
+{ "ok": false, "error": "aws_throttle" }

@@ -8,8 +8,9 @@ export function parse(data): IResult<IProductMap> {
   try {
 
     if (isError(data)) {
-      const msg = 'aws:' + parseError(data).code
-      return Result.Error(msg)
+      const msg = parseError(data).code
+      const error = normalizeAmazonError(msg)
+      return Result.Error(error)
     }
 
     const items = getItems(data)
@@ -38,7 +39,6 @@ function isError(data) {
 }
 
 
-
 function getItems(data) {
   const items = data.ItemLookupResponse.Items.Item
 
@@ -55,5 +55,22 @@ function parseError(data) {
   return {
     code: error.Code,
     message: error.Message
+  }
+}
+
+
+function normalizeAmazonError(msg: string): string {
+  switch (msg) {
+    case 'AWS.InvalidAssociate':
+      return 'invalid_associate'
+    case 'InvalidClientTokenId':
+    case 'SignatureDoesNotMatch':
+      return 'invalid_key'
+    case 'RequestThrottled':
+      return 'aws_throttle'
+    case 'AWS.InternalError':
+      return 'aws_internal_error'
+    default:
+      throw new Error('Unexpected amazon error: ' + msg)
   }
 }
