@@ -6,7 +6,7 @@ export function parse(item): IProduct {
   const attr = item.ItemAttributes || {}
   const dims = attr.PackageDimensions || {}
 
-  return {
+  const product = {
     asin: item.ASIN,
     brand: attr.Brand,
     category: parseCategory(item),
@@ -25,6 +25,24 @@ export function parse(item): IProduct {
     variants: [],
     weight: parseDimension(dims, 'Weight'),
     width: parseDimension(dims, 'Width')
+  }
+
+  // NOTE: We remove any undefined fields in order to make
+  // test fixtures easier to work with.
+  clean(product)
+
+  return product
+}
+
+
+/**
+ * Remove any keys with undefined values from an object.
+ */
+function clean(obj: object) {
+  for (let k in obj) {
+    if (typeof obj[k] == 'undefined') {
+      delete obj[k]
+    }
   }
 }
 
@@ -89,7 +107,7 @@ function parseImages(item) {
 
 
 function parseCategory(item): string | undefined {
-  let nodes = get(item, ['BrowseNodes', 'BrowseNode']) || []
+  let nodes = ensureArray( get(item, ['BrowseNodes', 'BrowseNode']) ) || []
 
   for (let node of nodes) {
     while (node.Ancestors) {

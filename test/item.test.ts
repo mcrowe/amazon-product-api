@@ -3,49 +3,31 @@ import * as assert from 'assert'
 import * as fs from 'fs'
 
 
+const FIXTURE_PATH = __dirname + '/fixtures/item'
+
+
+function readJSON(path) {
+  return JSON.parse( fs.readFileSync(path, 'utf-8') )
+}
+
+
+function makeTest(dir) {
+  const path = FIXTURE_PATH + '/' + dir + '/'
+  const raw = readJSON(path + 'raw.json')
+  const expected = readJSON(path + 'parsed.json')
+
+  const actual = Item.parse(raw)
+
+  // NOTE: We remove variants until we have proper parsing for them.
+  delete expected.variants
+  delete actual.variants
+
+  test(dir, () => {
+    assert.deepEqual(actual, expected)
+  })
+}
+
 
 suite('item', () => {
-
-  const fixturePath = __dirname + '/fixtures/item'
-
-  fs.readdir(fixturePath, (_err, dirs) => {
-    for (let dir of dirs) {
-      test(dir, () => {
-        const path = fixturePath + '/' + dir
-        const raw = JSON.parse( fs.readFileSync(path + '/raw.json', 'utf-8') )
-        const expected = JSON.parse( fs.readFileSync(path + '/parsed.json', 'utf-8') )
-
-        const actual = Item.parse(raw)
-
-        delete expected.variants
-        delete actual.variants
-
-        for (let k in actual) {
-          if (typeof actual[k] == 'undefined') {
-            delete actual[k]
-          }
-        }
-
-        assert.deepEqual(actual, expected)
-      })
-    }
-  })
+  fs.readdirSync(FIXTURE_PATH).forEach(makeTest)
 })
-
-  // test('parse', () => {
-  //   const res = ItemLookup.parse(ERROR)
-
-  //   assert.deepEqual({
-  //     error: 'aws:RequestThrottled',
-  //     ok: false
-  //   }, res)
-  // })
-
-  // test('parse error', () => {
-  //   const res = ItemLookup.parse(SUCCESS)
-
-  //   assert.deepEqual({
-  //     data: {},
-  //     ok: true
-  //   }, res)
-  // })
