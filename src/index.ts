@@ -1,6 +1,7 @@
 import * as ItemLookup from './item-lookup'
 import { IKey,
-         IProduct } from './types'
+         IProduct,
+         IProductMap } from './types'
 import { Result,
          IResult } from '@mcrowe/result'
 import * as apac from 'apac'
@@ -20,7 +21,7 @@ export async function getProduct(key: IKey, country: string, asin: string): Prom
 }
 
 
-export async function bulkGetProducts(key: IKey, country: string, asins: string[]): Promise<IResult<IProduct>> {
+export async function bulkGetProducts(key: IKey, country: string, asins: string[]): Promise<IResult<IProductMap>> {
   try {
     const data = await itemLookup(key, country, asins)
 

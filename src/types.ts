@@ -25,3 +25,8 @@ export interface IProduct {
   weight?: number
   width?: number
 }
+
+
+export interface IProductMap {
+  [asin: string]: IProduct
+}

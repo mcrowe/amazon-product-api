@@ -1,12 +1,7 @@
 import * as Item from './item'
-import { IProduct } from './types'
+import { IProductMap } from './types'
 import { Result,
          IResult } from '@mcrowe/result'
-
-
-export interface IProductMap {
-  [asin: string]: IProduct
-}
 
 
 export function parse(data): IResult<IProductMap> {
