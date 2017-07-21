@@ -1,0 +1,106 @@
+{
+  "asin": "B015SJR2UI",
+  "name": "\"Capaldo Occhioli Per Fermatappeti 12 Pz. In Ottone Fuso Tipo Apribile,Diametro Mm.11\"",
+  "brand": "CAPALDO",
+  "category": "Fai da te",
+  "rank": 210053,
+  "price": 33,
+  "nSellers": 1,
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51WwTzSzGeL._SL75_.jpg",
+  "description": "\"Capaldo Occhioli Per Fermatappeti 12 Pz. In Ottone Fuso Tipo Apribile,Diametro Mm.11\"",
+  "images": [{
+    "$": {
+      "Category": "primary"
+    },
+    "SwatchImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51WwTzSzGeL._SL30_.jpg",
+      "Height": {
+        "_": "26",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51WwTzSzGeL._SL75_.jpg",
+      "Height": {
+        "_": "64",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51WwTzSzGeL._SL75_.jpg",
+      "Height": {
+        "_": "64",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51WwTzSzGeL._SL110_.jpg",
+      "Height": {
+        "_": "95",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51WwTzSzGeL._SL160_.jpg",
+      "Height": {
+        "_": "138",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51WwTzSzGeL.jpg",
+      "Height": {
+        "_": "430",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }]
+}

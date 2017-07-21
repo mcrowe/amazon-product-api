@@ -1,0 +1,329 @@
+{
+  "asin": "B018BWL35E",
+  "name": "006161 Exotic Environments Qing Dynasty Terracotta Statue by Blue Ribbon",
+  "brand": "Blue Ribbon",
+  "category": "Productos para Animales",
+  "rank": 6652,
+  "price": 1912.66,
+  "nSellers": 1,
+  "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51EfsEgVKoL._SL75_.jpg",
+  "width": 8.3,
+  "height": 7.3,
+  "length": 13.2,
+  "weight": 2.4,
+  "featureBullets": ["006161 Exotic Environments Qing Dynasty Terracotta Statue"],
+  "description": "Perched on a rock in the Mountain tops a Small Asian cottage sits quietly among the peaceful bonsai trees;Manufactured by Blue ribbon pet products;Made in China",
+  "images": [{
+    "$": {
+      "Category": "variant"
+    },
+    "SwatchImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51-9HNgAx9L._SL30_.jpg",
+      "Height": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "16",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51-9HNgAx9L._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "40",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51-9HNgAx9L._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "40",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51-9HNgAx9L._SL110_.jpg",
+      "Height": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "58",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51-9HNgAx9L._SL160_.jpg",
+      "Height": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "85",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51-9HNgAx9L.jpg",
+      "Height": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "265",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "HiResImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/91ncaagAvlL.jpg",
+      "Height": {
+        "_": "2560",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "1358",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }, {
+    "$": {
+      "Category": "variant"
+    },
+    "SwatchImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/31GJ9OKzkIL._SL30_.jpg",
+      "Height": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "22",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/31GJ9OKzkIL._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "56",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/31GJ9OKzkIL._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "56",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/31GJ9OKzkIL._SL110_.jpg",
+      "Height": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "82",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/31GJ9OKzkIL._SL160_.jpg",
+      "Height": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "120",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/31GJ9OKzkIL.jpg",
+      "Height": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "375",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }, {
+    "$": {
+      "Category": "primary"
+    },
+    "SwatchImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51EfsEgVKoL._SL30_.jpg",
+      "Height": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "16",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51EfsEgVKoL._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "39",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51EfsEgVKoL._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "39",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51EfsEgVKoL._SL110_.jpg",
+      "Height": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "58",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51EfsEgVKoL._SL160_.jpg",
+      "Height": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "84",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51EfsEgVKoL.jpg",
+      "Height": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "262",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "HiResImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/91qZ05N6fUL.jpg",
+      "Height": {
+        "_": "2560",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "1342",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }]
+}

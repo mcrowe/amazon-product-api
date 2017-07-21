@@ -1,0 +1,387 @@
+{
+  "ASIN": "B00DQZ0IRG",
+  "ParentASIN": "B00Z9W53RE",
+  "DetailPageURL": "https://www.amazon.com/Vera-Bradley-Lunch-Canterberry-Magenta/dp/B00DQZ0IRG?psc=1&SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00DQZ0IRG",
+  "ItemLinks": {
+    "ItemLink": [{
+      "Description": "Technical Details",
+      "URL": "https://www.amazon.com/Vera-Bradley-Lunch-Canterberry-Magenta/dp/tech-data/B00DQZ0IRG?SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG"
+    }, {
+      "Description": "Add To Baby Registry",
+      "URL": "https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B00DQZ0IRG&SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG"
+    }, {
+      "Description": "Add To Wedding Registry",
+      "URL": "https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B00DQZ0IRG&SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG"
+    }, {
+      "Description": "Add To Wishlist",
+      "URL": "https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B00DQZ0IRG&SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG"
+    }, {
+      "Description": "Tell A Friend",
+      "URL": "https://www.amazon.com/gp/pdp/taf/B00DQZ0IRG?SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG"
+    }, {
+      "Description": "All Customer Reviews",
+      "URL": "https://www.amazon.com/review/product/B00DQZ0IRG?SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG"
+    }, {
+      "Description": "All Offers",
+      "URL": "https://www.amazon.com/gp/offer-listing/B00DQZ0IRG?SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG"
+    }]
+  },
+  "SalesRank": "95047",
+  "SmallImage": {
+    "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL75_.jpg",
+    "Height": {
+      "_": "56",
+      "$": {
+        "Units": "pixels"
+      }
+    },
+    "Width": {
+      "_": "75",
+      "$": {
+        "Units": "pixels"
+      }
+    }
+  },
+  "MediumImage": {
+    "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL160_.jpg",
+    "Height": {
+      "_": "119",
+      "$": {
+        "Units": "pixels"
+      }
+    },
+    "Width": {
+      "_": "160",
+      "$": {
+        "Units": "pixels"
+      }
+    }
+  },
+  "LargeImage": {
+    "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL.jpg",
+    "Height": {
+      "_": "371",
+      "$": {
+        "Units": "pixels"
+      }
+    },
+    "Width": {
+      "_": "500",
+      "$": {
+        "Units": "pixels"
+      }
+    }
+  },
+  "ImageSets": {
+    "ImageSet": [{
+      "$": {
+        "Category": "primary"
+      },
+      "SwatchImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL30_.jpg",
+        "Height": {
+          "_": "22",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "30",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "SmallImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL75_.jpg",
+        "Height": {
+          "_": "56",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "ThumbnailImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL75_.jpg",
+        "Height": {
+          "_": "56",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "TinyImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL110_.jpg",
+        "Height": {
+          "_": "82",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "110",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "MediumImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL160_.jpg",
+        "Height": {
+          "_": "119",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "160",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "LargeImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL.jpg",
+        "Height": {
+          "_": "371",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "500",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      }
+    }]
+  },
+  "ItemAttributes": {
+    "Binding": "Kitchen",
+    "Brand": "Vera Bradley",
+    "Color": "Pink",
+    "Department": "womens",
+    "EAN": "0885258843513",
+    "EANList": {
+      "EANListElement": ["0885258843513", "0799891836194", "0798837549525", "0885199386636", "0886003231395", "0799891831571", "0885159747378"]
+    },
+    "Feature": ["Holds most pre-packaged frozen meals or Thermos¨", "Slip pocket and a large zippered opening, plus an ID window", "Available in select colors", "Care: Machine Wash", "Measures: 7 _\" x 9\" x 4 _\" with 3\" handle drop"],
+    "IsAdultProduct": "0",
+    "ItemDimensions": {
+      "Height": {
+        "_": "400",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      },
+      "Length": {
+        "_": "700",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      },
+      "Weight": {
+        "_": "38",
+        "$": {
+          "Units": "hundredths-pounds"
+        }
+      },
+      "Width": {
+        "_": "900",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }
+    },
+    "Label": "USA",
+    "ListPrice": {
+      "Amount": "2790",
+      "CurrencyCode": "USD",
+      "FormattedPrice": "$27.90"
+    },
+    "Manufacturer": "USA",
+    "ManufacturerMaximumAge": {
+      "_": "36",
+      "$": {
+        "Units": "months"
+      }
+    },
+    "ManufacturerMinimumAge": {
+      "_": "6",
+      "$": {
+        "Units": "months"
+      }
+    },
+    "Model": "12370-149",
+    "MPN": "12370-149",
+    "PackageDimensions": {
+      "Height": {
+        "_": "120",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      },
+      "Length": {
+        "_": "1070",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      },
+      "Weight": {
+        "_": "25",
+        "$": {
+          "Units": "hundredths-pounds"
+        }
+      },
+      "Width": {
+        "_": "690",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }
+    },
+    "PackageQuantity": "1",
+    "PartNumber": "12370-149",
+    "ProductGroup": "Kitchen",
+    "ProductTypeName": "KITCHEN",
+    "Publisher": "USA",
+    "Size": "One Size",
+    "Studio": "USA",
+    "Title": "Vera Bradley Lunch Bunch (Canterberry Magenta)",
+    "UPC": "885258843513",
+    "UPCList": {
+      "UPCListElement": ["885258843513", "799891836194", "798837549525", "885159747378", "885199386636", "799891831571", "886003231395"]
+    }
+  },
+  "OfferSummary": {
+    "LowestNewPrice": {
+      "Amount": "2790",
+      "CurrencyCode": "USD",
+      "FormattedPrice": "$27.90"
+    },
+    "TotalNew": "4",
+    "TotalUsed": "0",
+    "TotalCollectible": "0",
+    "TotalRefurbished": "0"
+  },
+  "Offers": {
+    "TotalOffers": "1",
+    "TotalOfferPages": "1",
+    "MoreOffersUrl": "https://www.amazon.com/gp/offer-listing/B00DQZ0IRG?SubscriptionId=AKIAI72CD4R77XFVUTHA&tag=kjhjhh3432-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B00DQZ0IRG",
+    "Offer": {
+      "OfferAttributes": {
+        "Condition": "New"
+      },
+      "OfferListing": {
+        "OfferListingId": "PzburHSAEuR3fZ01QxrgFmR7ZDsVL79Bi0cAwyHglx%2BF6rbe9MsqmPzVHwN9E7LB2YvgNCklxeD5Qi%2Fo2uhI2dxGYYgk8GrB4r9kJI9qPQRUYpxl79JDDPkhzkBpRJnXIXkc33b2TEX%2F01dEobgtSSdOVpVS8PS0",
+        "Price": {
+          "Amount": "2790",
+          "CurrencyCode": "USD",
+          "FormattedPrice": "$27.90"
+        },
+        "Availability": "Usually ships in 24 hours",
+        "AvailabilityAttributes": {
+          "AvailabilityType": "now",
+          "MinimumHours": "0",
+          "MaximumHours": "0"
+        },
+        "IsEligibleForSuperSaverShipping": "1",
+        "IsEligibleForPrime": "1"
+      }
+    }
+  },
+  "CustomerReviews": {
+    "IFrameURL": "https://www.amazon.com/reviews/iframe?akid=AKIAI72CD4R77XFVUTHA&alinkCode=xm2&asin=B00DQZ0IRG&atag=kjhjhh3432-20&exp=2017-04-27T19%3A30%3A05Z&summary=1&truncate=1000&v=2&sig=u3wdLwqBOV4JxATXpZFtYGUYL8bQtlYfRIlCChdZ%252FM8%253D",
+    "HasReviews": "true"
+  },
+  "EditorialReviews": {
+    "EditorialReview": [{
+      "Source": "Product Description",
+      "Content": "Vera Bradley Lunch Bunch (Canterberry Magenta)",
+      "IsLinkSuppressed": "0"
+    }]
+  },
+  "SimilarProducts": {
+    "SimilarProduct": [{
+      "ASIN": "B00DQZ54E8",
+      "Title": "Vera Bradley Campus Backpack (Canterberry Magenta)"
+    }, {
+      "ASIN": "B00GJBTNL6",
+      "Title": "Vera Bradley Large Cosmetic Bag (Canterberry Magenta)"
+    }, {
+      "ASIN": "B00GM5KRQY",
+      "Title": "Vera Bradley Pleated Tote Canterberry Magenta"
+    }, {
+      "ASIN": "B00GJBTP9G",
+      "Title": "Vera Bradley Small Cosmetic (Canterberry Magenta)"
+    }, {
+      "ASIN": "B01E8M38ZO",
+      "Title": "Vera Bradley Lunch Bunch, Lilac Tapestry"
+    }, {
+      "ASIN": "B00AFME4EQ",
+      "Title": "Vera Bradley Lunch Bunch in Midnight Blues"
+    }, {
+      "ASIN": "B00FC5GD3Q",
+      "Title": "Loloi Zoey HZO-02 Indoor Area Rug"
+    }, {
+      "ASIN": "B008GRCUAW",
+      "Title": "Vera Bradley Lunch Bunch in Mocha Rouge"
+    }, {
+      "ASIN": "B00DQZ2P40",
+      "Title": "Vera Bradley Large Duffel in Canterberry Magenta"
+    }, {
+      "ASIN": "B00EL21V06",
+      "Title": "Vera Bradley On The Go (Canterberry Magenta)"
+    }]
+  },
+  "BrowseNodes": {
+    "BrowseNode": [{
+      "BrowseNodeId": "2287321011",
+      "Name": "Lunch Bags",
+      "Ancestors": {
+        "BrowseNode": {
+          "BrowseNodeId": "8841480011",
+          "Name": "Travel & To-Go Food Containers",
+          "Ancestors": {
+            "BrowseNode": {
+              "BrowseNodeId": "510136",
+              "Name": "Storage & Organization",
+              "Ancestors": {
+                "BrowseNode": {
+                  "BrowseNodeId": "284507",
+                  "Name": "Kitchen & Dining",
+                  "Ancestors": {
+                    "BrowseNode": {
+                      "BrowseNodeId": "1063498",
+                      "Name": "Categories",
+                      "IsCategoryRoot": "1",
+                      "Ancestors": {
+                        "BrowseNode": {
+                          "BrowseNodeId": "1055398",
+                          "Name": "Home & Kitchen"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }]
+  }
+}

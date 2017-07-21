@@ -1,0 +1,113 @@
+{
+  "asin": "B00DQZ0IRG",
+  "name": "Vera Bradley Lunch Bunch (Canterberry Magenta)",
+  "brand": "Vera Bradley",
+  "parentAsin": "B00Z9W53RE",
+  "category": "Home & Kitchen",
+  "rank": 95047,
+  "price": 27.9,
+  "nSellers": 4,
+  "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL75_.jpg",
+  "width": 6.9,
+  "height": 1.2,
+  "length": 10.7,
+  "weight": 0.25,
+  "color": "Pink",
+  "featureBullets": ["Holds most pre-packaged frozen meals or Thermos¨", "Slip pocket and a large zippered opening, plus an ID window", "Available in select colors", "Care: Machine Wash", "Measures: 7 _\" x 9\" x 4 _\" with 3\" handle drop"],
+  "description": "Vera Bradley Lunch Bunch (Canterberry Magenta)",
+  "images": [{
+    "$": {
+      "Category": "primary"
+    },
+    "SwatchImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL30_.jpg",
+      "Height": {
+        "_": "22",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL75_.jpg",
+      "Height": {
+        "_": "56",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL75_.jpg",
+      "Height": {
+        "_": "56",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL110_.jpg",
+      "Height": {
+        "_": "82",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL._SL160_.jpg",
+      "Height": {
+        "_": "119",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51l2GaVRWiL.jpg",
+      "Height": {
+        "_": "371",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }]
+}

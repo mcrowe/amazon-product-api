@@ -1,10 +1,14 @@
 import assert = require('assert')
-import doSomething from '../src'
+import * as Api from '../src'
 
 
-suite('index', () => {})
+test('getProduct', async () => {
+  const key = {
+    awsId: 'AKIAII2GLKRWTJZBQ22A',
+    awsSecret: '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',
+    assocId: 'dsfnseyrgwejr-20'
+  }
+  const res = await Api.getProduct(key, 'us', 'B000067QMK')
 
-
-test('index', () => {
-  assert.equal(5, doSomething(1))
+  assert.equal(5, res)
 })

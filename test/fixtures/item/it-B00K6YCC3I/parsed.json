@@ -1,0 +1,233 @@
+{
+  "asin": "B00K6YCC3I",
+  "name": "Don't Stop",
+  "brand": "CAPITOL UK",
+  "category": "CD e Vinili",
+  "rank": 42967,
+  "price": 0.13,
+  "nSellers": 8,
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51ekGDS8ppL._SL75_.jpg",
+  "width": 4.97,
+  "height": 0.54,
+  "length": 5.55,
+  "weight": 0.18,
+  "images": [{
+    "$": {
+      "Category": "variant"
+    },
+    "SwatchImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51prQOEXfdL._SL30_.jpg",
+      "Height": {
+        "_": "27",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51prQOEXfdL._SL75_.jpg",
+      "Height": {
+        "_": "67",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51prQOEXfdL._SL75_.jpg",
+      "Height": {
+        "_": "67",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51prQOEXfdL._SL110_.jpg",
+      "Height": {
+        "_": "98",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51prQOEXfdL._SL160_.jpg",
+      "Height": {
+        "_": "142",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51prQOEXfdL.jpg",
+      "Height": {
+        "_": "445",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "HiResImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/71OLnenup5L.jpg",
+      "Height": {
+        "_": "1132",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "1272",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }, {
+    "$": {
+      "Category": "primary"
+    },
+    "SwatchImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51ekGDS8ppL._SL30_.jpg",
+      "Height": {
+        "_": "24",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51ekGDS8ppL._SL75_.jpg",
+      "Height": {
+        "_": "59",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51ekGDS8ppL._SL75_.jpg",
+      "Height": {
+        "_": "59",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51ekGDS8ppL._SL110_.jpg",
+      "Height": {
+        "_": "87",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51ekGDS8ppL._SL160_.jpg",
+      "Height": {
+        "_": "127",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/51ekGDS8ppL.jpg",
+      "Height": {
+        "_": "396",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "HiResImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/71H2DyqooUL.jpg",
+      "Height": {
+        "_": "1079",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "1363",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }]
+}

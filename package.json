@@ -6,7 +6,7 @@
   "license": "ISC",
   "repository": "https://github.com/mcrowe/package_name",
   "scripts": {
-    "test": "mocha -u qunit --recursive -r ./node_modules/ts-node/register test/*",
+    "test": "mocha -u tdd --recursive -r ./node_modules/ts-node/register test/*",
     "build": "tsc",
     "watch": "tsc -w"
   },
@@ -21,5 +21,10 @@
     "mocha": "^3.4.2",
     "ts-node": "^3.1.0",
     "typescript": "^2.4.1"
+  },
+  "dependencies": {
+    "@mcrowe/result": "0.0.4",
+    "apac": "^3.0.2",
+    "object-path": "^0.11.4"
   }
 }

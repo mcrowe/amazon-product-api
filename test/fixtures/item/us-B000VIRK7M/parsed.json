@@ -1,0 +1,120 @@
+{
+  "asin": "B000VIRK7M",
+  "name": "Logans Run",
+  "category": "CDs & Vinyl",
+  "rank": 374066,
+  "price": 19.99,
+  "nSellers": 1,
+  "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51hakBBuQ%2BL._SL75_.jpg",
+  "description": "mg15302, mgm, 1976, original lp vinyl",
+  "images": [{
+    "$": {
+      "Category": "primary"
+    },
+    "SwatchImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51hakBBuQ%2BL._SL30_.jpg",
+      "Height": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51hakBBuQ%2BL._SL75_.jpg",
+      "Height": {
+        "_": "74",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51hakBBuQ%2BL._SL75_.jpg",
+      "Height": {
+        "_": "74",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51hakBBuQ%2BL._SL110_.jpg",
+      "Height": {
+        "_": "109",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51hakBBuQ%2BL._SL160_.jpg",
+      "Height": {
+        "_": "158",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/51hakBBuQ%2BL.jpg",
+      "Height": {
+        "_": "495",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "HiResImage": {
+      "URL": "https://images-na.ssl-images-amazon.com/images/I/91CtJJKAGbL.jpg",
+      "Height": {
+        "_": "1941",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "1959",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }]
+}

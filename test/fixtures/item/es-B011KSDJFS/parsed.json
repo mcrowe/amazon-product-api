@@ -1,0 +1,121 @@
+{
+  "asin": "B011KSDJFS",
+  "name": "ACDSee 18 - Español",
+  "brand": "ACD Systems",
+  "category": "Software",
+  "rank": 219,
+  "price": 47.95,
+  "nSellers": 1,
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/4144hjpNadL._SL75_.jpg",
+  "description": "Organice, edite y comparta sus fotos con facilidad. ACDSee 18 permite que los fotógrafos realicen los aspectos esenciales del proceso fotográfico creativo y la distribución en un solo lugar. Administrar una colección fotográfica en aumento nunca ha sido tan fácil. ACDSee 18 está lleno de herramientas que le ayudarán a organizar sus fotos, perfeccionarlas e inspirar a sus amigos y familiares. Con un despliegue increíble de funciones automáticas diseñadas para que no pare el flujo de trabajo, una multitud de filtros nuevos para que no cese la creatividad y un rápido acceso a la nube, ACDSee 18 ofrece una eficacia sin precedentes. Novedades Con más formas de acceder a la información crítica, acelerar el flujo de trabajo y perfeccionar las fotografías, el usuario se sorprenderá con los resultados y con el tiempo que se ahorrará. Indizador inteligente Para optimizar la experiencia ACDSee, el indizador inteligente cataloga las carpetas y las agrega a la base de datos de ACDSee cuando el ordenador está inactivo. El indizador inteligente es tan listo que sabe que ha realizado cambios y mantiene todo actualizado de forma automática, de modo que no tendrá que pensar en ello. Vista de lente automática Obtenga una vista previa de las imágenes rápidamente y con varios filtros mientras las explora en el modo Visualizar con la vista de lente automática. PicaView Disfrute de la comodidad de echar un vistazo a las imágenes a través del menú contextual de su sistema operativo gracias a ACDSee PicaView. Ahorre tiempo al no tener que abrir las imágenes en una aplicación para identificarlas, vea su información EXIF y ábralas en ACDSee para seguir editándolas sin problemas Ecualizador en un paso Disfrute de la simplicidad del ajuste de la exposición automática con el ecualizador en un paso. La tecnología LCE (mejora de la luz y el contraste) de ACDSee acciona las correcciones intuitivas del ecualizador en un paso en cuanto se abre la imagen.",
+  "images": [{
+    "$": {
+      "Category": "primary"
+    },
+    "SwatchImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/4144hjpNadL._SL30_.jpg",
+      "Height": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "19",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/4144hjpNadL._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "48",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/4144hjpNadL._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "48",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/4144hjpNadL._SL110_.jpg",
+      "Height": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "70",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/4144hjpNadL._SL160_.jpg",
+      "Height": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "101",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/4144hjpNadL.jpg",
+      "Height": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "317",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "HiResImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/61shRNFjmNL.jpg",
+      "Height": {
+        "_": "1000",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "633",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }]
+}

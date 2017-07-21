@@ -1,0 +1,125 @@
+{
+  "asin": "B00LRIIPN8",
+  "name": "​Love2Sleep Bettvolant, Polyester-Baumwoll-Gemisch (50 % / 50 %), hochwertiger Stoff, für Super-King-Size-Betten, Weiß",
+  "brand": "JOYSLEEP",
+  "category": "Küche & Haushalt",
+  "rank": 566206,
+  "price": 14.7,
+  "nSellers": 1,
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41hakUj37ML._SL75_.jpg",
+  "width": 7.56,
+  "height": 2.68,
+  "length": 12.36,
+  "weight": 2.51,
+  "color": "weiß",
+  "images": [{
+    "$": {
+      "Category": "primary"
+    },
+    "SwatchImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/41hakUj37ML._SL30_.jpg",
+      "Height": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "30",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "SmallImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/41hakUj37ML._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "ThumbnailImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/41hakUj37ML._SL75_.jpg",
+      "Height": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "75",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "TinyImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/41hakUj37ML._SL110_.jpg",
+      "Height": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "110",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "MediumImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/41hakUj37ML._SL160_.jpg",
+      "Height": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "160",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "LargeImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/41hakUj37ML.jpg",
+      "Height": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "500",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    },
+    "HiResImage": {
+      "URL": "https://images-eu.ssl-images-amazon.com/images/I/61Y22g-DBiL.jpg",
+      "Height": {
+        "_": "1080",
+        "$": {
+          "Units": "pixels"
+        }
+      },
+      "Width": {
+        "_": "1080",
+        "$": {
+          "Units": "pixels"
+        }
+      }
+    }
+  }]
+}

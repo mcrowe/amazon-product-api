@@ -1,0 +1,257 @@
+{
+  "asin": "B01LZCD0VN",
+  "name": "GE Refrigerator Water Filter",
+  "brand": "GE",
+  "parentAsin": "B01LZCD0VN",
+  "category": "Appliances",
+  "nSellers": 0,
+  "variants": [{
+    "asin": "B000AST3AK",
+    "name": "General Electric MWF Refrigerator Water Filter",
+    "brand": "GE",
+    "parentAsin": "B01LZCD0VN",
+    "price": 40.95,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL75_.jpg",
+    "width": 3.5,
+    "height": 3.31,
+    "length": 5.91,
+    "weight": 0.79,
+    "color": "Multi",
+    "featureBullets": ["GE guaranteed fit: Compatible with select GE side-by-side and bottom-freezer refrigerators", "Premium filtration: Certified to reduce chlorine-resistant cysts, lead, select pharmaceuticals and 15 other contaminants", "Twist and lock design: Simple design provides easy, tool-free, no-mess filter replacement", "Six-month filter life: For best filtration results, filter cartridge should be replaced every six months or 300 gallons", "GE's most advanced filtration Tested and verified to filter five trace pharmaceuticals, including ibuprofen, progesterone and others", "Replaces GWF, GWFA, GWF01, GWF06, MWFA"],
+    "images": [{
+      "$": {
+        "Category": "primary"
+      },
+      "SwatchImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL30_.jpg",
+        "Height": {
+          "_": "30",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "19",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "SmallImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "47",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "ThumbnailImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "47",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "TinyImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL110_.jpg",
+        "Height": {
+          "_": "110",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "69",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "MediumImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL160_.jpg",
+        "Height": {
+          "_": "160",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "101",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "LargeImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L.jpg",
+        "Height": {
+          "_": "500",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "315",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "HiResImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/81dJZQRRPeL.jpg",
+        "Height": {
+          "_": "2560",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "1612",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      }
+    }],
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL150_.jpg"
+  }, {
+    "asin": "B00149JVOC",
+    "name": "GE SmartWater MWF Refrigerator Water Filter, 3-Pack",
+    "brand": "GE",
+    "parentAsin": "B01LZCD0VN",
+    "price": 119.5,
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L._SL75_.jpg",
+    "width": 5.7,
+    "height": 3.6,
+    "length": 11,
+    "weight": 2.4,
+    "color": "White",
+    "featureBullets": ["GE guaranteed fit: Compatible with select GE side-by-side and bottom-freezer refrigerators", "Premium filtration: Certified to reduce chlorine-resistant cysts, lead, asbestos and 15 other contaminants", "Twist and lock design: Simple design provides easy, tool-free, no-mess filter replacement", "Six-month filter life: For best filtration results, filter cartridge should be replaced every six months or 300 gallons", "GE's most advanced filtration Tested and verified to filter five trace pharmaceuticals, including ibuprofen, progesterone and others"],
+    "images": [{
+      "$": {
+        "Category": "primary"
+      },
+      "SwatchImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L._SL30_.jpg",
+        "Height": {
+          "_": "30",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "19",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "SmallImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "47",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "ThumbnailImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "47",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "TinyImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L._SL110_.jpg",
+        "Height": {
+          "_": "110",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "69",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "MediumImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L._SL160_.jpg",
+        "Height": {
+          "_": "160",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "101",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "LargeImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L.jpg",
+        "Height": {
+          "_": "500",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "315",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "HiResImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/81gOKiHYNeL.jpg",
+        "Height": {
+          "_": "2560",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "1612",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      }
+    }],
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41b8nF%2Biv0L._SL150_.jpg"
+  }]
+}

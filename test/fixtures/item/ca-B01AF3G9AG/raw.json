@@ -1,0 +1,755 @@
+{
+    "ASIN": "B01AF3G9AG",
+    "DetailPageURL": "https://www.amazon.ca/Valentine-Thanksgiving-Christmas-Halloween-Messenger/dp/B01AF3G9AG?SubscriptionId=AKIAJJEHPKBWRZOR2GXA&tag=csdgfa2wk6-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01AF3G9AG",
+    "ItemLinks": {
+        "ItemLink": [{
+            "Description": "Add To Wishlist",
+            "URL": "https://www.amazon.ca/gp/registry/wishlist/add-item.html?asin.0=B01AF3G9AG&SubscriptionId=AKIAJJEHPKBWRZOR2GXA&tag=csdgfa2wk6-20&linkCode=xm2&camp=2025&creative=386005&creativeASIN=B01AF3G9AG"
+        }, {
+            "Description": "Tell A Friend",
+            "URL": "https://www.amazon.ca/gp/pdp/taf/B01AF3G9AG?SubscriptionId=AKIAJJEHPKBWRZOR2GXA&tag=csdgfa2wk6-20&linkCode=xm2&camp=2025&creative=386005&creativeASIN=B01AF3G9AG"
+        }, {
+            "Description": "All Customer Reviews",
+            "URL": "https://www.amazon.ca/review/product/B01AF3G9AG?SubscriptionId=AKIAJJEHPKBWRZOR2GXA&tag=csdgfa2wk6-20&linkCode=xm2&camp=2025&creative=386005&creativeASIN=B01AF3G9AG"
+        }, {
+            "Description": "All Offers",
+            "URL": "https://www.amazon.ca/gp/offer-listing/B01AF3G9AG?SubscriptionId=AKIAJJEHPKBWRZOR2GXA&tag=csdgfa2wk6-20&linkCode=xm2&camp=2025&creative=386005&creativeASIN=B01AF3G9AG"
+        }]
+    },
+    "SalesRank": "19918",
+    "SmallImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L._SL75_.jpg",
+        "Height": {
+            "_": "52",
+            "$": {
+                "Units": "pixels"
+            }
+        },
+        "Width": {
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        }
+    },
+    "MediumImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L._SL160_.jpg",
+        "Height": {
+            "_": "110",
+            "$": {
+                "Units": "pixels"
+            }
+        },
+        "Width": {
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        }
+    },
+    "LargeImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L.jpg",
+        "Height": {
+            "_": "344",
+            "$": {
+                "Units": "pixels"
+            }
+        },
+        "Width": {
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        }
+    },
+    "ImageSets": {
+        "ImageSet": [{
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/51-trndiarL._SL30_.jpg",
+                "Height": {
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "22",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "SmallImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/51-trndiarL._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "56",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "ThumbnailImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/51-trndiarL._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "56",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "TinyImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/51-trndiarL._SL110_.jpg",
+                "Height": {
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "82",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "MediumImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/51-trndiarL._SL160_.jpg",
+                "Height": {
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "120",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "LargeImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/51-trndiarL.jpg",
+                "Height": {
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "375",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "HiResImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/71I0kjrbc2L.jpg",
+                "Height": {
+                    "_": "1600",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "1200",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            }
+        }, {
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41R7EXpjWuL._SL30_.jpg",
+                "Height": {
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "22",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "SmallImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41R7EXpjWuL._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "56",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "ThumbnailImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41R7EXpjWuL._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "56",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "TinyImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41R7EXpjWuL._SL110_.jpg",
+                "Height": {
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "82",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "MediumImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41R7EXpjWuL._SL160_.jpg",
+                "Height": {
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "120",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "LargeImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41R7EXpjWuL.jpg",
+                "Height": {
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "375",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "HiResImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/71HYWhMfCwL.jpg",
+                "Height": {
+                    "_": "1600",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "1200",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            }
+        }, {
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41CS73wiB6L._SL30_.jpg",
+                "Height": {
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "22",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "SmallImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41CS73wiB6L._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "56",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "ThumbnailImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41CS73wiB6L._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "56",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "TinyImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41CS73wiB6L._SL110_.jpg",
+                "Height": {
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "82",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "MediumImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41CS73wiB6L._SL160_.jpg",
+                "Height": {
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "120",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "LargeImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41CS73wiB6L.jpg",
+                "Height": {
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "375",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "HiResImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/7131E0UkjqL.jpg",
+                "Height": {
+                    "_": "1600",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "1200",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            }
+        }, {
+            "$": {
+                "Category": "variant"
+            },
+            "SwatchImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/412ZoAoFx5L._SL30_.jpg",
+                "Height": {
+                    "_": "13",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "SmallImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/412ZoAoFx5L._SL75_.jpg",
+                "Height": {
+                    "_": "33",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "ThumbnailImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/412ZoAoFx5L._SL75_.jpg",
+                "Height": {
+                    "_": "33",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "TinyImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/412ZoAoFx5L._SL110_.jpg",
+                "Height": {
+                    "_": "48",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "MediumImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/412ZoAoFx5L._SL160_.jpg",
+                "Height": {
+                    "_": "70",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "LargeImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/412ZoAoFx5L.jpg",
+                "Height": {
+                    "_": "218",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "HiResImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/71AOYkGhCuL.jpg",
+                "Height": {
+                    "_": "698",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "1600",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            }
+        }, {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L._SL30_.jpg",
+                "Height": {
+                    "_": "21",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "SmallImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L._SL75_.jpg",
+                "Height": {
+                    "_": "52",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "ThumbnailImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L._SL75_.jpg",
+                "Height": {
+                    "_": "52",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "TinyImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L._SL110_.jpg",
+                "Height": {
+                    "_": "76",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "MediumImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L._SL160_.jpg",
+                "Height": {
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "LargeImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41XMyYvGz4L.jpg",
+                "Height": {
+                    "_": "344",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "HiResImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/71bAwK8ZbzL.jpg",
+                "Height": {
+                    "_": "1101",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "1600",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            }
+        }]
+    },
+    "ItemAttributes": {
+        "Binding": "Video Game",
+        "Brand": "INDIARTVILLA",
+        "Color": "BROWN",
+        "EAN": "0723979026597",
+        "EANList": {
+            "EANListElement": "0723979026597"
+        },
+        "Feature": ["1 Big inner Compartment and 2 Zipper Compartments", "2 Small Inner Compartments", "100% Genuine Leather, Adjustable Shoulder Strap", "Size 11\" Height x 9\" Width x 4\" Depth", "NOTE: Recently we found a lot of cheap replicas in the markets that are using low grade materials and workmanship to attract buyers ,lots of buyers complained about the bad quality coz they selected those ridiculous offers. In order to get a top quality bag, please be careful while making your purchase. Please check the brand name & seller name (INDIARTVILLA) before buying the product."],
+        "HardwarePlatform": "Xbox 360",
+        "ItemDimensions": {
+            "Height": {
+                "_": "1100",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            },
+            "Length": {
+                "_": "900",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            },
+            "Width": {
+                "_": "400",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }
+        },
+        "Label": "INDIARTVILLA",
+        "Manufacturer": "INDIARTVILLA",
+        "PackageQuantity": "10",
+        "ProductGroup": "Video Games",
+        "ProductTypeName": "VIDEO_GAME_ACCESSORIES",
+        "Publisher": "INDIARTVILLA",
+        "Studio": "INDIARTVILLA",
+        "Title": "\"Valentine gift,Thanksgiving,Christmas, Halloween,Birthday,Holidays Deals 11\" Inch Mens Leather Messenger Briefcase Laptop Satchel Mens Crossbody Bag",
+        "UPC": "723979026597",
+        "UPCList": {
+            "UPCListElement": "723979026597"
+        }
+    },
+    "OfferSummary": {
+        "TotalNew": "0",
+        "TotalUsed": "0",
+        "TotalCollectible": "0",
+        "TotalRefurbished": "0"
+    },
+    "Offers": {
+        "TotalOffers": "0",
+        "TotalOfferPages": "0",
+        "MoreOffersUrl": "0"
+    },
+    "CustomerReviews": {
+        "IFrameURL": "https://www.amazon.ca/reviews/iframe?akid=AKIAJJEHPKBWRZOR2GXA&alinkCode=xm2&asin=B01AF3G9AG&atag=csdgfa2wk6-20&exp=2017-04-27T21%3A17%3A12Z&summary=1&truncate=1000&v=2&sig=0ZjWv6nyztPIy%252BYftSU17DpMoaZzmXK3DJwwIqjZmOY%253D",
+        "HasReviews": "false"
+    },
+    "EditorialReviews": {
+        "EditorialReview": {
+            "Source": "Product Description",
+            "Content": "100% genuine goat leather with durable inner canvas lining and steel accessories, Size 9\" width x 11\" height x 4\" depth..... Well suited to carry I pad's, Books and other personal belongings etc..... Genuine handmade product made from chemical and dye free leather. Veg tanning using natural edible oil and Sun tanning used for obtaining shades. Bag gives a wonderfully unique and antique look with use..... A perfect companion and gift for your close ones.....",
+            "IsLinkSuppressed": "0"
+        }
+    },
+    "BrowseNodes": {
+        "BrowseNode": [{
+            "BrowseNodeId": "7089583011",
+            "Name": "Xbox 360",
+            "Children": {
+                "BrowseNode": [{
+                    "BrowseNodeId": "7089584011",
+                    "Name": "Accessories"
+                }, {
+                    "BrowseNodeId": "356916011",
+                    "Name": "Consoles"
+                }, {
+                    "BrowseNodeId": "186267011",
+                    "Name": "Games"
+                }]
+            },
+            "Ancestors": {
+                "BrowseNode": {
+                    "BrowseNodeId": "110218011",
+                    "Name": "Categories",
+                    "IsCategoryRoot": "1",
+                    "Ancestors": {
+                        "BrowseNode": {
+                            "BrowseNodeId": "3198031",
+                            "Name": "Video Games"
+                        }
+                    }
+                }
+            }
+        }, {
+            "BrowseNodeId": "3379560011",
+            "Name": "Cases & Covers",
+            "Children": {
+                "BrowseNode": [{
+                    "BrowseNodeId": "13542514011",
+                    "Name": "Armbands"
+                }, {
+                    "BrowseNodeId": "3459205011",
+                    "Name": "Belt Clips"
+                }, {
+                    "BrowseNodeId": "13542515011",
+                    "Name": "Cases"
+                }, {
+                    "BrowseNodeId": "13542516011",
+                    "Name": "Flip Cases"
+                }, {
+                    "BrowseNodeId": "13542517011",
+                    "Name": "Wallet Cases"
+                }]
+            },
+            "Ancestors": {
+                "BrowseNode": {
+                    "BrowseNodeId": "3379553011",
+                    "Name": "Accessories",
+                    "Ancestors": {
+                        "BrowseNode": {
+                            "BrowseNodeId": "3379552011",
+                            "Name": "Cell Phones & Accessories",
+                            "Ancestors": {
+                                "BrowseNode": {
+                                    "BrowseNodeId": "677211011",
+                                    "Name": "Categories",
+                                    "IsCategoryRoot": "1",
+                                    "Ancestors": {
+                                        "BrowseNode": {
+                                            "BrowseNodeId": "667823011",
+                                            "Name": "Electronics"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }]
+    }
+}

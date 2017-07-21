@@ -1,0 +1,455 @@
+{
+    "ASIN": "B000AST3AK",
+    "ParentASIN": "B01LZCD0VN",
+    "DetailPageURL": "https://www.amazon.com/General-Electric-MWF-Refrigerator-Filter/dp/B000AST3AK?psc=1&SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000AST3AK",
+    "ItemLinks": {
+        "ItemLink": [{
+            "Description": "Technical Details",
+            "URL": "https://www.amazon.com/General-Electric-MWF-Refrigerator-Filter/dp/tech-data/B000AST3AK?SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK"
+        }, {
+            "Description": "Add To Baby Registry",
+            "URL": "https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B000AST3AK&SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK"
+        }, {
+            "Description": "Add To Wedding Registry",
+            "URL": "https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B000AST3AK&SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK"
+        }, {
+            "Description": "Add To Wishlist",
+            "URL": "https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B000AST3AK&SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK"
+        }, {
+            "Description": "Tell A Friend",
+            "URL": "https://www.amazon.com/gp/pdp/taf/B000AST3AK?SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK"
+        }, {
+            "Description": "All Customer Reviews",
+            "URL": "https://www.amazon.com/review/product/B000AST3AK?SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK"
+        }, {
+            "Description": "All Offers",
+            "URL": "https://www.amazon.com/gp/offer-listing/B000AST3AK?SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK"
+        }]
+    },
+    "SalesRank": "6",
+    "SmallImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL75_.jpg",
+        "Height": {
+            "_": "75",
+            "$": {
+                "Units": "pixels"
+            }
+        },
+        "Width": {
+            "_": "47",
+            "$": {
+                "Units": "pixels"
+            }
+        }
+    },
+    "MediumImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL160_.jpg",
+        "Height": {
+            "_": "160",
+            "$": {
+                "Units": "pixels"
+            }
+        },
+        "Width": {
+            "_": "101",
+            "$": {
+                "Units": "pixels"
+            }
+        }
+    },
+    "LargeImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L.jpg",
+        "Height": {
+            "_": "500",
+            "$": {
+                "Units": "pixels"
+            }
+        },
+        "Width": {
+            "_": "315",
+            "$": {
+                "Units": "pixels"
+            }
+        }
+    },
+    "ImageSets": {
+        "ImageSet": {
+            "$": {
+                "Category": "primary"
+            },
+            "SwatchImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL30_.jpg",
+                "Height": {
+                    "_": "30",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "19",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "SmallImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "47",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "ThumbnailImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL75_.jpg",
+                "Height": {
+                    "_": "75",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "47",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "TinyImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL110_.jpg",
+                "Height": {
+                    "_": "110",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "69",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "MediumImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L._SL160_.jpg",
+                "Height": {
+                    "_": "160",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "101",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "LargeImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/41j5lWSqz-L.jpg",
+                "Height": {
+                    "_": "500",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "315",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            },
+            "HiResImage": {
+                "URL": "https://images-na.ssl-images-amazon.com/images/I/81dJZQRRPeL.jpg",
+                "Height": {
+                    "_": "2560",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                },
+                "Width": {
+                    "_": "1612",
+                    "$": {
+                        "Units": "pixels"
+                    }
+                }
+            }
+        }
+    },
+    "ItemAttributes": {
+        "Binding": "Tools & Home Improvement",
+        "Brand": "GE",
+        "CatalogNumberList": {
+            "CatalogNumberListElement":[ "MWFP", "401343"]
+        },
+        "Color": "Multi",
+        "EAN": "0700256641735",
+        "EANList": {
+            "EANListElement": ["0700256641735", "0885129452929", "0798256077500", "0701003122095", "0700256636724", "0885169557172", "0682428243155", "0715821245997", "0722703630215", "0682428197199", "0084691260233", "0700256636496", "0751438224857", "0721227209259", "7290005981609", "0084691038412", "0885129586754", "0762042437083", "0885766231864", "0885663396741", "0716080037798", "0885417930542", "0885676461641", "0602927256227", "0688580775718"]
+        },
+        "Feature": ["GE guaranteed fit: Compatible with select GE side-by-side and bottom-freezer refrigerators", "Premium filtration: Certified to reduce chlorine-resistant cysts, lead, select pharmaceuticals and 15 other contaminants", "Twist and lock design: Simple design provides easy, tool-free, no-mess filter replacement", "Six-month filter life: For best filtration results, filter cartridge should be replaced every six months or 300 gallons", "GE's most advanced filtration Tested and verified to filter five trace pharmaceuticals, including ibuprofen, progesterone and others", "Replaces GWF, GWFA, GWF01, GWF06, MWFA"],
+        "IsAutographed": "0",
+        "ItemDimensions": {
+            "Height": {
+                "_": "236",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            },
+            "Length": {
+                "_": "1102",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            },
+            "Weight": {
+                "_": "75",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            },
+            "Width": {
+                "_": "197",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }
+        },
+        "ItemPartNumber": "MWF",
+        "Label": "GE",
+        "ListPrice": {
+            "Amount": "4099",
+            "CurrencyCode": "USD",
+            "FormattedPrice": "$40.99"
+        },
+        "Manufacturer": "GE",
+        "Model": "MWF",
+        "MPN": "MWF",
+        "NumberOfItems": "1",
+        "PackageDimensions": {
+            "Height": {
+                "_": "331",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            },
+            "Length": {
+                "_": "591",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            },
+            "Weight": {
+                "_": "79",
+                "$": {
+                    "Units": "hundredths-pounds"
+                }
+            },
+            "Width": {
+                "_": "350",
+                "$": {
+                    "Units": "hundredths-inches"
+                }
+            }
+        },
+        "PackageQuantity": "1",
+        "PartNumber": "MWF",
+        "ProductGroup": "Home Improvement",
+        "ProductTypeName": "MAJOR_HOME_APPLIANCES",
+        "Publisher": "GE",
+        "Size": "1 Pack",
+        "Studio": "GE",
+        "Title": "General Electric MWF Refrigerator Water Filter",
+        "UPC": "721227209259",
+        "UPCList": {
+            "UPCListElement": ["721227209259", "762042437083", "682428197199", "084691038412", "751438224857", "716080037798", "885663396741", "700256636496", "688580775718", "602927256227", "885169557172", "885417930542", "885676461641", "885129452929", "700256641735", "885766231864", "885129586754", "701003122095", "715821245997", "722703630215", "798256077500", "682428243155", "700256636724", "084691260233"]
+        },
+        "Warranty": "30 day limited filter warranty - Any part of the water filter cartridge which fails due to a defect in materials or workmanship during this limited 30-day warranty."
+    },
+    "OfferSummary": {
+        "LowestNewPrice": {
+            "Amount": "4095",
+            "CurrencyCode": "USD",
+            "FormattedPrice": "$40.95"
+        },
+        "TotalNew": "4",
+        "TotalUsed": "0",
+        "TotalCollectible": "0",
+        "TotalRefurbished": "0"
+    },
+    "Offers": {
+        "TotalOffers": "1",
+        "TotalOfferPages": "1",
+        "MoreOffersUrl": "https://www.amazon.com/gp/offer-listing/B000AST3AK?SubscriptionId=AKIAJAQDFOA7E7BFGSHQ&tag=swdaxzq268-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B000AST3AK",
+        "Offer": {
+            "OfferAttributes": {
+                "Condition": "New"
+            },
+            "OfferListing": {
+                "OfferListingId": "C97qv%2B76NdHfelhl9ZiKl53f0ucuqDWjecYhGfuZKb3K1Svf3zWWaHCkoi9f23u2d5NJ01MxL4iaV3phJKmhAa6aVrPpg04LFrZNI7BREkIW0x47tOxjqg%3D%3D",
+                "Price": {
+                    "Amount": "4095",
+                    "CurrencyCode": "USD",
+                    "FormattedPrice": "$40.95"
+                },
+                "AmountSaved": {
+                    "Amount": "4",
+                    "CurrencyCode": "USD",
+                    "FormattedPrice": "$0.04"
+                },
+                "Availability": "Usually ships in 24 hours",
+                "AvailabilityAttributes": {
+                    "AvailabilityType": "now",
+                    "MinimumHours": "0",
+                    "MaximumHours": "0"
+                },
+                "IsEligibleForSuperSaverShipping": "1",
+                "IsEligibleForPrime": "1"
+            }
+        }
+    },
+    "CustomerReviews": {
+        "IFrameURL": "https://www.amazon.com/reviews/iframe?akid=AKIAJAQDFOA7E7BFGSHQ&alinkCode=xm2&asin=B000AST3AK&atag=swdaxzq268-20&exp=2017-04-26T00%3A19%3A42Z&summary=1&truncate=1000&v=2&sig=TOonKUR7%252Bj3OVbtsrGF4TyZCDgyJ8xzZeswzfRH6H48%253D",
+        "HasReviews": "true"
+    },
+    "EditorialReviews": {
+        "EditorialReview": [{
+            "Source": "Product Description",
+            "Content": "GE SmartWater Refrigerator filter replacement Cartridge MWFP",
+            "IsLinkSuppressed": "0"
+        }, {
+            "Source": "Amazon.com",
+            "Content": "GE’s NSF-certified MWF replacement refrigerator water filter—part of the company’s SmartWater filtration series—is the improved version of the GWF model, providing you and your loved ones cleaner, healthier, and better-tasting drinking water at home. By reducing contaminants like mercury, toxaphene, p-dichlorobenzene, carbofuran, alachlor, benzene, lead, cryptosporidium, and giardia, the MWF is a safe and affordable way to contribute to a healthy lifestyle.<p><table cellpadding='10' cellspacing=\"0\" border=\"0\" width=\"250\" align=\"right\"><tr><td><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"250\" align=\"center\"><tr><td><img src=\"https://images-na.ssl-images-amazon.com/images/G/01/th/aplus/factbox_geappliances._V167585612_.png\" border=\"0\" alt=\"At a Glance\"></td></tr><tr><td style=\"background: url(https://images-na.ssl-images-amazon.com/images/G/01/th/aplus/a-plus_middle-217._V180545590_.gif) repeat-y\"><table cellpadding=\"5\" cellspacing=\"0\" border=\"0\" width=\"225\" align=\"left\"><tr><td><br><center><b>MWF Replacement<br>Refrigerator Water Filter<br>At a Glance:</b></center><br><ul><li>Fully interchangeable with GWF installations<br><br></li><li>Certified up to 300 gallons with a flow rate of .5 gpm<br><br></li><li>Pressure requirement: 40-120 psi, non-shock<br><br></li><li>Backed by a limited 30-day warranty</li></ul></td></tr></table></td></tr><tr><td><img src=\"https://images-na.ssl-images-amazon.com/images/G/01/th/aplus/a-plus_bottom-217._V180545591_.gif\" border=\"0\" alt=\"At a Glance\"></td></tr></table></td></tr></table><table cellpadding=\"10\" cellspacing=\"2\" border=\"0\" width=\"230\" align=\"left\"><tr><td><img src=\"https://images-na.ssl-images-amazon.com/images/G/01/th/aplus/ge_mwf_filter_web._V167585616_.jpg\" border=\"0\" alt=\"MWF replacement refrigerator water filter\"><br><font size=\"1\"><em><b>GE's NSF-certified MWF replacement refrigerator water filter should be replaced every six months (view larger).</b></em></font></td></tr><tr><td></b></em></font></td></tr></table><b>NSF Certified</b><br>NSF International is an independent nonprofit organization that examines consumer products to ensure they comply with strict standards for certification. By analyzing product materials, observing manufacturing facilities, testing products repeatedly and monitoring product development, the NSF serves as a safeguard for consumer safety. And the GE MWF is NSF certified.<p><b>GE Warranty Information</b><br>For a period of 30 days after the date of original purchase, GE will replace (at no charge) and part of the water filter cartridge that fails because of a defect in materials or workmanship. The warranty extends to the original purchaser and any succeeding owner for products purchased for home use within the United States. The warranty does not include service trips to your home for product tutorials; improper installation; failure of the product if it is misused; replacement of the cartridge because of water pressure that is outside the specified operating range; damage to the product caused by accident, fire, or flood; and incidental or consequential damage caused by possible defects with the appliance.<p><b>About GE Replacement Filters</b><br>It's important to change your filters as recommended to ensure you have the filtered water your home and family need. GE replacement filters make changing filters easy. For example, you'll never have to worry whether you've installed the filter upside-down—their filters can be installed in either direction.<p><b>What's in the Box</b><br>One GE MWF SmartWater replacement refrigerator water filter.<p><table cellpadding=\"2\" cellspacing=\"1\" border=\"0\" align=\"center\" width=\"700\"><tr align=\"center\"><td><img src=\"https://images-na.ssl-images-amazon.com/images/G/01/th/aplus/ge_mwf_filter_fridge_web._V167585581_.jpg\" border=\"0\" alt=\"MWF replacement refrigerator water filter\"></td><td><img src=\"https://images-na.ssl-images-amazon.com/images/G/01/th/aplus/ge_mwf_filter_fridge2_web._V167585619_.jpg\" border=\"0\" alt=\"MWF replacement refrigerator water filter\"></td><tr align=\"center\"><td colspan=\"3\"><font size=\"1\"><em><b>The MWF's new design is slim and compact, making it easier to install and remove while also taking up less space in your fridge  (click each to enlarge).</b></em></font></td></tr></table>",
+            "IsLinkSuppressed": "1"
+        }]
+    },
+    "SimilarProducts": {
+        "SimilarProduct": [{
+            "ASIN": "B00MOCSH66",
+            "Title": "General Electric Refrigerator Drip Tray (Black)"
+        }, {
+            "ASIN": "B002OIEOCG",
+            "Title": "GE GXRTDR Exterior Refrigerator/Icemaker Filtration System"
+        }, {
+            "ASIN": "B004H3XWPG",
+            "Title": "GE WR57X10032 Water Valve for Refrigerator"
+        }, {
+            "ASIN": "B01BIDPHYQ",
+            "Title": "Best GE MWF Refrigerator Water Filter Smartwater Compatible Cartridge"
+        }, {
+            "ASIN": "B000GQTCCA",
+            "Title": "InSinkErator F-201R Filtration Replacement Cartridges, 2-Pack"
+        }, {
+            "ASIN": "B01HBPGP28",
+            "Title": "PREMIUM GE MWF Smart water Accessories Replacement Refrigerator Water Filter Cartridge"
+        }, {
+            "ASIN": "B00126NABC",
+            "Title": "GE MSWF Refrigerator Water Filter, 1 Pack"
+        }, {
+            "ASIN": "B00TUDHPQK",
+            "Title": "Filtrete Healthy Living Ultra Allergen Reduction Filter, MPR 1500, 20 x 30 x 1-Inches, 2-Pack"
+        }, {
+            "ASIN": "B001EYAR6S",
+            "Title": "GE FQSVF Drinking Water System Replacement Filter Set"
+        }, {
+            "ASIN": "B0025YUF68",
+            "Title": "GE FXHTC Whole Home System Replacement Filter"
+        }]
+    },
+    "BrowseNodes": {
+        "BrowseNode": [{
+            "BrowseNodeId": "13900811",
+            "Name": "Home & Kitchen Features",
+            "Children": {
+                "BrowseNode": {
+                    "BrowseNodeId": "51551011",
+                    "Name": "Featured Categories"
+                }
+            },
+            "Ancestors": {
+                "BrowseNode": {
+                    "BrowseNodeId": "1055398",
+                    "Name": "Home & Kitchen"
+                }
+            }
+        }, {
+            "BrowseNodeId": "13900821",
+            "Name": "Kitchen & Dining Features",
+            "Children": {
+                "BrowseNode": {
+                    "BrowseNodeId": "51552011",
+                    "Name": "Featured Categories"
+                }
+            },
+            "Ancestors": {
+                "BrowseNode": {
+                    "BrowseNodeId": "1055398",
+                    "Name": "Home & Kitchen"
+                }
+            }
+        }, {
+            "BrowseNodeId": "404038011",
+            "Name": "Ait Conditioner Accessories",
+            "Ancestors": {
+                "BrowseNode": {
+                    "BrowseNodeId": "404035011",
+                    "Name": "Appliance Accessories",
+                    "Ancestors": {
+                        "BrowseNode": {
+                            "BrowseNodeId": "404034011",
+                            "Name": "Accessories",
+                            "Ancestors": {
+                                "BrowseNode": {
+                                    "BrowseNodeId": "349028011",
+                                    "Name": "Products",
+                                    "IsCategoryRoot": "1",
+                                    "Ancestors": {
+                                        "BrowseNode": {
+                                            "BrowseNodeId": "349027011"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }, {
+            "BrowseNodeId": "3741161",
+            "Name": "Water Filters",
+            "Ancestors": {
+                "BrowseNode": {
+                    "BrowseNodeId": "3741241",
+                    "Name": "Refrigerator Parts & Accessories",
+                    "Ancestors": {
+                        "BrowseNode": {
+                            "BrowseNodeId": "3741181",
+                            "Name": "Parts & Accessories",
+                            "Ancestors": {
+                                "BrowseNode": {
+                                    "BrowseNodeId": "2619526011",
+                                    "Name": "Categories",
+                                    "IsCategoryRoot": "1",
+                                    "Ancestors": {
+                                        "BrowseNode": {
+                                            "BrowseNodeId": "2619525011",
+                                            "Name": "Appliances"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }]
+    }
+}
