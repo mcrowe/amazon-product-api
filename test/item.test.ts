@@ -18,10 +18,6 @@ function makeTest(dir) {
 
   const actual = Item.parse(raw)
 
-  // NOTE: We remove variants until we have proper parsing for them.
-  delete expected.variants
-  delete actual.variants
-
   test(dir, () => {
     assert.deepEqual(actual, expected)
   })

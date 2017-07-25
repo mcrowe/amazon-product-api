@@ -14,6 +14,7 @@ export interface IProduct {
   featureBullets?: string[]
   name?: string
   height?: number
+  image?: string
   images?: any
   imageUrl?: string
   length?: number

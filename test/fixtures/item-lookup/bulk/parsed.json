@@ -447,7 +447,6 @@
       "nSellers": 12,
       "price": 11.63,
       "rank": 1121,
-      "variants": [],
       "weight": 0.8,
       "width": 9.12
     },
@@ -692,7 +691,6 @@
       "length": 11.9,
       "nSellers": 2,
       "parentAsin": "B000BO9INA",
-      "variants": [],
       "weight": 1.6,
       "width": 9.2
     }
