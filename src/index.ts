@@ -41,14 +41,14 @@ async function itemLookup(key: IKey, country: string, asins: string[]) {
   const options = {
     awsId: key.accessKeyId,
     awsSecret: key.secretAccessKey,
-    assocId: key.associateTag
+    assocId: key.associateTag,
+    locale: country.toUpperCase()
   }
 
   const response = await new apac.OperationHelper(options).execute('ItemLookup', {
     ItemId: asins.join(','),
     ItemType: 'ASIN',
-    ResponseGroup: RESPONSE_GROUP,
-    locale: country.toUpperCase()
+    ResponseGroup: RESPONSE_GROUP
   })
 
   return response.result
