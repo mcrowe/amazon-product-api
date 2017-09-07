@@ -1,0 +1,239 @@
+{
+  "asin": "B0050C9ZAE",
+  "brand": "David's Bridal",
+  "category": "Clothing, Shoes & Jewelry",
+  "color": "Black",
+  "description": "Super shaping, longline corset-style torsolette gives excellent full-figure control! Featuring an elegant floral lace and satin design with delicate lace detailing, this low back torsolette is ideal under any strapless gown!",
+  "featureBullets": ["Material: Satin"],
+  "name": "Dominique Satin and Lace Torsolette Bridal Bustier Style 8949, Black, 36A",
+  "height": 1.8,
+  "images": [
+    {
+      "$": {
+        "Category": "variant"
+      },
+      "SwatchImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/31v6Kmy6tPL._SL30_.jpg",
+        "Height": {
+          "_": "30",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "22",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "SmallImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/31v6Kmy6tPL._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "56",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "ThumbnailImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/31v6Kmy6tPL._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "56",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "TinyImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/31v6Kmy6tPL._SL110_.jpg",
+        "Height": {
+          "_": "110",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "82",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "MediumImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/31v6Kmy6tPL._SL160_.jpg",
+        "Height": {
+          "_": "160",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "120",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "LargeImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/31v6Kmy6tPL.jpg",
+        "Height": {
+          "_": "500",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "375",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "HiResImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/81gAQx9hFXL.jpg",
+        "Height": {
+          "_": "2560",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "1922",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      }
+    },
+    {
+      "$": {
+        "Category": "primary"
+      },
+      "SwatchImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/418g6YKPGAL._SL30_.jpg",
+        "Height": {
+          "_": "30",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "11",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "SmallImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/418g6YKPGAL._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "28",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "ThumbnailImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/418g6YKPGAL._SL75_.jpg",
+        "Height": {
+          "_": "75",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "28",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "TinyImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/418g6YKPGAL._SL110_.jpg",
+        "Height": {
+          "_": "110",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "41",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "MediumImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/418g6YKPGAL._SL160_.jpg",
+        "Height": {
+          "_": "160",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "60",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "LargeImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/418g6YKPGAL.jpg",
+        "Height": {
+          "_": "500",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "187",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      },
+      "HiResImage": {
+        "URL": "https://images-na.ssl-images-amazon.com/images/I/51gLHNBuawL.jpg",
+        "Height": {
+          "_": "1001",
+          "$": {
+            "Units": "pixels"
+          }
+        },
+        "Width": {
+          "_": "374",
+          "$": {
+            "Units": "pixels"
+          }
+        }
+      }
+    }
+  ],
+  "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/418g6YKPGAL._SL75_.jpg",
+  "length": 15.7,
+  "nSellers": 6,
+  "parentAsin": "B003WKDMKK",
+  "price": 46.91,
+  "weight": 0.5,
+  "width": 9.1
+}

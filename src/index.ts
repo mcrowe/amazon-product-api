@@ -37,7 +37,7 @@ export async function bulkGetProducts(key: IKey, country: string, asins: string[
 }
 
 
-async function itemLookup(key: IKey, country: string, asins: string[]) {
+export async function itemLookup(key: IKey, country: string, asins: string[]) {
   const options = {
     awsId: key.accessKeyId,
     awsSecret: key.secretAccessKey,

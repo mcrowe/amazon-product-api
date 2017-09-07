@@ -15,7 +15,7 @@ export function parse(item, isVariant: boolean = false): IProduct {
     category: parseCategory(item),
     color: attr.Color,
     description: parseDescription(item),
-    featureBullets: attr.Feature,
+    featureBullets: parseFeatureBullets(attr),
     name: attr.Title,
     height: parseDimension(dims, 'Height'),
     images: parseImages(item),
@@ -189,4 +189,27 @@ function getVariantImage(asin: string, imageUrl: string | undefined): string {
   } else {
     return `http://images.amazon.com/images/P/${asin}.01.ZTZZZZZZ.jpg`
   }
+}
+
+
+function parseFeatureBullets(attr): string[] | undefined {
+  if (!attr) {
+    return
+  }
+
+  const feature = attr.Feature
+
+  if (Array.isArray(feature)) {
+    return feature
+  }
+
+  if (typeof feature == 'undefined') {
+    return feature
+  }
+
+  if (typeof feature == 'string') {
+    return [feature]
+  }
+
+  throw new Error('Unexpected feature bullet format: ' + feature)
 }
