@@ -2,15 +2,21 @@ import * as Item from './item'
 import { IProductMap } from './types'
 import { Result,
          IResult } from '@mcrowe/result'
+import * as ObjectPath from 'object-path'
+
+
+const ERROR_PATH = ['ItemLookupErrorResponse', 'Error']
+const REQUEST_ERROR_PATH = ['ItemLookupResponse', 'Items', 'Request', 'Errors', 'Error']
 
 
 export function parse(data): IResult<IProductMap> {
   try {
 
-    if (isError(data)) {
-      const msg = parseError(data).code
-      const error = normalizeAmazonError(msg)
-      return Result.Error(error)
+    const error = parseError(data)
+
+    if (error) {
+      const msg = normalizeAmazonError(error.code)
+      return Result.Error(msg)
     }
 
     const items = getItems(data)
@@ -27,15 +33,10 @@ export function parse(data): IResult<IProductMap> {
     return Result.OK(map)
 
   } catch (e) {
-    console.error('parse_error ' + e)
+    console.error('AmazonProductApi: Error parsing data ' + e)
     return Result.Error('parse_error')
 
   }
-}
-
-
-function isError(data) {
-  return data.ItemLookupErrorResponse
 }
 
 
@@ -51,10 +52,13 @@ function getItems(data) {
 
 
 function parseError(data) {
-  const error = data.ItemLookupErrorResponse.Error
-  return {
-    code: error.Code,
-    message: error.Message
+  const error = ObjectPath.get(data, ERROR_PATH) || ObjectPath.get(data, REQUEST_ERROR_PATH)
+
+  if (error) {
+    return {
+      code: error.Code,
+      message: error.Message
+    }
   }
 }
 
@@ -70,6 +74,8 @@ function normalizeAmazonError(msg: string): string {
       return 'aws_throttle'
     case 'AWS.InternalError':
       return 'aws_server_error'
+    case 'AWS.InvalidParameterValue':
+      return 'aws_invalid_parameter_value'
     default:
       throw new Error('Unexpected amazon error: ' + msg)
   }
