@@ -1,0 +1,47 @@
+{ "CartCreateResponse": 
+  { "$": { "xmlns": "http://webservices.amazon.com/AWSECommerceService/2013-08-01" },
+    "OperationRequest": 
+     { "RequestId": "d8aaa617-f76c-47fb-9471-16ab4041e71e",
+       "Arguments": 
+        { "Argument": 
+           [ { "$": { "Name": "AWSAccessKeyId", "Value": "AKIAJU3RLWCIBMPWY6VA" } },
+             { "$": { "Name": "AssociateTag", "Value": "xcbvmsdfskdlv-20" } },
+             { "$": { "Name": "Item.1.ASIN", "Value": "B0182U49IS" } },
+             { "$": { "Name": "Item.1.Quantity", "Value": "999" } },
+             { "$": { "Name": "Operation", "Value": "CartCreate" } },
+             { "$": { "Name": "Service", "Value": "AWSECommerceService" } },
+             { "$": 
+                { "Name": "Signature",
+                  "Value": "03wXUvkWov0l4tz7/2fCJ4XFNZQknK4/+OooLUxMSL8=" } },
+             { "$": { "Name": "Timestamp", "Value": "2017-10-12T17:53:07Z" } },
+             { "$": { "Name": "Version", "Value": "2013-08-01" } } ] },
+       "RequestProcessingTime": "0.18612118" },
+    "Cart": 
+     { "Request": 
+        { "IsValid": "True",
+          "CartCreateRequest": { "Items": { "Item": { "ASIN": "B0182U49IS", "Quantity": "999" } } } },
+       "CartId": "131-7411804-2440955",
+       "HMAC": "zR4RZI1+N09HLWiSTZfUfbQgsJA=",
+       "URLEncodedHMAC": "zR4RZI1%2BN09HLWiSTZfUfbQgsJA%3D",
+       "PurchaseURL": "https://www.amazon.com/gp/cart/aws-merge.html?cart-id=131-7411804-2440955&associate-id=xcbvmsdfskdlv-20&hmac=zR4RZI1%2BN09HLWiSTZfUfbQgsJA%3D&SubscriptionId=AKIAJU3RLWCIBMPWY6VA&MergeCart=False",
+       "SubTotal": 
+        { "Amount": "2196801",
+          "CurrencyCode": "USD",
+          "FormattedPrice": "$21,968.01" },
+       "CartItems": 
+        { "SubTotal": 
+           { "Amount": "2196801",
+             "CurrencyCode": "USD",
+             "FormattedPrice": "$21,968.01" },
+          "CartItem": 
+           { "CartItemId": "C2M4FN87CFW8BK",
+             "ASIN": "B0182U49IS",
+             "SellerNickname": "J JO",
+             "Quantity": "999",
+             "Title": "Guzzle Buddy It Turns Your Bottle of Wine Into Your Wine Glass",
+             "ProductGroup": "Kitchen",
+             "Price": { "Amount": "2199", "CurrencyCode": "USD", "FormattedPrice": "$21.99" },
+             "ItemTotal": 
+              { "Amount": "2196801",
+                "CurrencyCode": "USD",
+                "FormattedPrice": "$21,968.01" } } } } } }

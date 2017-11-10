@@ -1,0 +1,87 @@
+{
+  "CartCreateResponse": {
+    "$": {
+      "xmlns": "http://webservices.amazon.com/AWSECommerceService/2013-08-01"
+    },
+    "OperationRequest": {
+      "RequestId": "3fdf2acb-3b1b-4e21-8ce5-899561c6007b",
+      "Arguments": {
+        "Argument": [{
+            "$": {
+              "Name": "AWSAccessKeyId",
+              "Value": "AKIAIVWH4VI7Z3EXJ64A"
+            }
+          },
+          {
+            "$": {
+              "Name": "AssociateTag",
+              "Value": "asjfjshueytes-20"
+            }
+          },
+          {
+            "$": {
+              "Name": "Item.1.ASIN",
+              "Value": "B008HLKOP0"
+            }
+          },
+          {
+            "$": {
+              "Name": "Item.1.Quantity",
+              "Value": "999"
+            }
+          },
+          {
+            "$": {
+              "Name": "Operation",
+              "Value": "CartCreate"
+            }
+          },
+          {
+            "$": {
+              "Name": "Service",
+              "Value": "AWSECommerceService"
+            }
+          },
+          {
+            "$": {
+              "Name": "Signature",
+              "Value": "uP1JzwdFHSEOirEEVthOLgyz6lQjnhvYcMuVKqAZpcA="
+            }
+          },
+          {
+            "$": {
+              "Name": "Timestamp",
+              "Value": "2017-10-12T17:28:38Z"
+            }
+          },
+          {
+            "$": {
+              "Name": "Version",
+              "Value": "2013-08-01"
+            }
+          }
+        ]
+      },
+      "RequestProcessingTime": "0.085954994"
+    },
+    "Cart": {
+      "Request": {
+        "IsValid": "True",
+        "CartCreateRequest": {
+          "Items": {
+            "Item": {
+              "ASIN": "B008HLKOP0",
+              "Quantity": "999"
+            }
+          }
+        },
+        "Errors": {
+          "Error": {
+            "Code": "AWS.ECommerceService.ItemNotEligibleForCart",
+            "Message": "The item you specified, B008HLKOP0, is not eligible to be added to the cart. Check the item\"s availability to make sure it is available."
+          }
+        }
+      }
+    }
+  }
+}

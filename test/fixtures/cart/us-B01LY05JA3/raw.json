@@ -1,0 +1,51 @@
+{ "CartCreateResponse": 
+  { "$": { "xmlns": "http://webservices.amazon.com/AWSECommerceService/2013-08-01" },
+    "OperationRequest": 
+     { "RequestId": "05810c62-f58d-471c-85ad-027c564163ff",
+       "Arguments": 
+        { "Argument": 
+           [ { "$": { "Name": "AWSAccessKeyId", "Value": "AKIAIN5WZ7FFYYWY4WMA" } },
+             { "$": { "Name": "AssociateTag", "Value": "rwehsjfbsdcsa-20" } },
+             { "$": { "Name": "Item.1.ASIN", "Value": "B01LY05JA3" } },
+             { "$": { "Name": "Item.1.Quantity", "Value": "999" } },
+             { "$": { "Name": "Operation", "Value": "CartCreate" } },
+             { "$": { "Name": "Service", "Value": "AWSECommerceService" } },
+             { "$": 
+                { "Name": "Signature",
+                  "Value": "G43tgx25RgRNryXTY6wQcOwMAdeI9TEFHXN3X4v7zaE=" } },
+             { "$": { "Name": "Timestamp", "Value": "2017-10-12T17:49:53Z" } },
+             { "$": { "Name": "Version", "Value": "2013-08-01" } } ] },
+       "RequestProcessingTime": "0.1334031" },
+    "Cart": 
+     { "Request": 
+        { "IsValid": "True",
+          "CartCreateRequest": { "Items": { "Item": { "ASIN": "B01LY05JA3", "Quantity": "999" } } },
+          "Errors": 
+           { "Error": 
+              { "Code": "AWS.ECommerceService.InvalidQuantity",
+                "Message": "You have exceeded the maximum quantity allowed for the following items: B01LY05JA3." } } },
+       "CartId": "131-2685279-1162307",
+       "HMAC": "fdReDttiabjFAxlod2CT6er2weo=",
+       "URLEncodedHMAC": "fdReDttiabjFAxlod2CT6er2weo%3D",
+       "PurchaseURL": "https://www.amazon.com/gp/cart/aws-merge.html?cart-id=131-2685279-1162307&associate-id=rwehsjfbsdcsa-20&hmac=fdReDttiabjFAxlod2CT6er2weo%3D&SubscriptionId=AKIAIN5WZ7FFYYWY4WMA&MergeCart=False",
+       "SubTotal": 
+        { "Amount": "200018",
+          "CurrencyCode": "USD",
+          "FormattedPrice": "$2,000.18" },
+       "CartItems": 
+        { "SubTotal": 
+           { "Amount": "200018",
+             "CurrencyCode": "USD",
+             "FormattedPrice": "$2,000.18" },
+          "CartItem": 
+           { "CartItemId": "C3NOKKADUALQRN",
+             "ASIN": "B01LY05JA3",
+             "SellerNickname": "VANCIC",
+             "Quantity": "182",
+             "Title": "VANCIC 13.5*8.5*4cm Plastic Manual Round Handle 2 Wheels Muscle Massage Roller Massager Cellulite Roller Fascia Blaster for Legs Arms Back Muscle Pain Relief and Muscle Relaxation (Blue)",
+             "ProductGroup": "Health and Beauty",
+             "Price": { "Amount": "1099", "CurrencyCode": "USD", "FormattedPrice": "$10.99" },
+             "ItemTotal": 
+              { "Amount": "200018",
+                "CurrencyCode": "USD",
+                "FormattedPrice": "$2,000.18" } } } } } }

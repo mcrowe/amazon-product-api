@@ -1,12 +1,1 @@
-{
-  "ItemLookupErrorResponse": {
-    "$": {
-      "xmlns": "http://ecs.amazonaws.com/doc/2013-08-01/"
-    },
-    "Error": {
-      "Code": "RequestThrottled",
-      "Message": "AWS Access Key ID: AKIAII2GLKRWTJZBQ22A. You are submitting requests too quickly. Please retry your requests at a slower rate."
-    },
-    "RequestID": "ef7e3169-1565-4dd7-b68e-f3c277c19843"
-  }
-}
+{"ItemLookupErrorResponse":{"$":{"xmlns":"http://ecs.amazonaws.com/doc/2013-08-01/"},"Error":{"Code":"RequestThrottled","Message":"AWS Access Key ID: AKIAII2GLKRWTJZBQ22A. You are submitting requests too quickly. Please retry your requests at a slower rate."},"RequestID":"ef7e3169-1565-4dd7-b68e-f3c277c19843"}}

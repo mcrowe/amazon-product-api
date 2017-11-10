@@ -1,0 +1,12 @@
+{
+  "CartCreateErrorResponse": {
+    "$": {
+      "xmlns": "http://ecs.amazonaws.com/doc/2013-08-01/"
+    },
+    "Error": {
+      "Code": "RequestThrottled",
+      "Message": "AWS Access Key ID: AKIAJBCEWUAQKNEVO5NA. You are submitting requests too quickly. Please retry your requests at a slower rate."
+    },
+    "RequestID": "e70f6f9a-7c15-4796-9487-c2d36c3ba9ed"
+  }
+}

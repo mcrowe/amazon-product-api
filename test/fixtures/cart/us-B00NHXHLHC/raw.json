@@ -1,0 +1,121 @@
+{
+  "CartCreateResponse": {
+    "$": {
+      "xmlns": "http://webservices.amazon.com/AWSECommerceService/2013-08-01"
+    },
+    "OperationRequest": {
+      "RequestId": "5372dd8e-0e39-458e-b7e6-ffd6e43aafe9",
+      "Arguments": {
+        "Argument": [{
+            "$": {
+              "Name": "AWSAccessKeyId",
+              "Value": "AKIAIIRYDX472NG7Z7TA"
+            }
+          },
+          {
+            "$": {
+              "Name": "AssociateTag",
+              "Value": "nfgdhuretreiu-20"
+            }
+          },
+          {
+            "$": {
+              "Name": "Item.1.ASIN",
+              "Value": "B00NHXHLHC"
+            }
+          },
+          {
+            "$": {
+              "Name": "Item.1.Quantity",
+              "Value": "999"
+            }
+          },
+          {
+            "$": {
+              "Name": "Operation",
+              "Value": "CartCreate"
+            }
+          },
+          {
+            "$": {
+              "Name": "Service",
+              "Value": "AWSECommerceService"
+            }
+          },
+          {
+            "$": {
+              "Name": "Signature",
+              "Value": "WU+IR3mT13MPiFlue4ZjXlnTKMTduVvnGSP5uS0ENpI="
+            }
+          },
+          {
+            "$": {
+              "Name": "Timestamp",
+              "Value": "2017-10-12T17:32:42Z"
+            }
+          },
+          {
+            "$": {
+              "Name": "Version",
+              "Value": "2013-08-01"
+            }
+          }
+        ]
+      },
+      "RequestProcessingTime": "0.15646103"
+    },
+    "Cart": {
+      "Request": {
+        "IsValid": "True",
+        "CartCreateRequest": {
+          "Items": {
+            "Item": {
+              "ASIN": "B00NHXHLHC",
+              "Quantity": "999"
+            }
+          }
+        },
+        "Errors": {
+          "Error": {
+            "Code": "AWS.ECommerceService.InvalidQuantity",
+            "Message": "You have exceeded the maximum quantity allowed for the following items: B00NHXHLHC."
+          }
+        }
+      },
+      "CartId": "136-0478949-4529917",
+      "HMAC": "tpVOj36eUXpinj5BU7YixinBOHs=",
+      "URLEncodedHMAC": "tpVOj36eUXpinj5BU7YixinBOHs%3D",
+      "PurchaseURL": "https://www.amazon.com/gp/cart/aws-merge.html?cart-id=136-0478949-4529917&associate-id=nfgdhuretreiu-20&hmac=tpVOj36eUXpinj5BU7YixinBOHs%3D&SubscriptionId=AKIAIIRYDX472NG7Z7TA&MergeCart=False",
+      "SubTotal": {
+        "Amount": "19990",
+        "CurrencyCode": "USD",
+        "FormattedPrice": "$199.90"
+      },
+      "CartItems": {
+        "SubTotal": {
+          "Amount": "19990",
+          "CurrencyCode": "USD",
+          "FormattedPrice": "$199.90"
+        },
+        "CartItem": {
+          "CartItemId": "C1U7ARLSXB0LMG",
+          "ASIN": "B00NHXHLHC",
+          "SellerNickname": "Your First Sergeant",
+          "Quantity": "10",
+          "Title": "  Army 10th Mountain Division 11 Bravo Infantry T-Shirt (S, Green)",
+          "ProductGroup": "Apparel",
+          "Price": {
+            "Amount": "1999",
+            "CurrencyCode": "USD",
+            "FormattedPrice": "$19.99"
+          },
+          "ItemTotal": {
+            "Amount": "19990",
+            "CurrencyCode": "USD",
+            "FormattedPrice": "$199.90"
+          }
+        }
+      }
+    }
+  }
+}

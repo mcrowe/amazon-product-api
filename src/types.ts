@@ -31,3 +31,7 @@ export interface IProduct {
 export interface IProductMap {
   [asin: string]: IProduct
 }
+
+export interface IInventory {
+  inventory?: number
+}
