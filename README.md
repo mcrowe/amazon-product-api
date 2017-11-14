@@ -14,7 +14,8 @@ import * as Amazon from '@mcrowe/amazon-product-api'
 const key = {
   accessKeyId: '...',
   secretAccessKey: '...',
-  associateTag: '...'
+  associateTag: '...',
+  locale: '...'
 }
 
 const result = await Amazon.getProduct(key, 'us', 'B01A...')
@@ -33,6 +34,16 @@ if (result.ok) {
   // result.data is a map from asin to product data
 }
 
+// For inventory 
+
+const result = await Amazon.getInventory(key, 'us', 'B01A...')
+
+if (result.ok) {
+  // result.data returns inventory data (see types.ts for structure)
+} else {
+  // result.error is a string error code (see "Results" below)
+}
+
 ```
 
 ## Results
@@ -47,6 +58,8 @@ Here are a list of the known error codes that could occur:
 - `invalid_key`: The provided api key was not valid.
 - `aws_server_error`: AWS had an internal server error.
 - `aws_throttle`: Too many requests have been made on this key recently.
+- `cart_error`: There was an error parsing the cart information from amazon.
+- `unavailable_via_api`: The asin is unavailable via the product advertising api.
 
 ## Development
 
